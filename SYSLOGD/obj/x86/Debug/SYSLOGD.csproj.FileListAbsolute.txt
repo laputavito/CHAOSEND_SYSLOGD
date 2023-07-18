@@ -1,0 +1,17 @@
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\bin\Debug\SYSLOGD.exe
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\bin\Debug\SYSLOGD.pdb
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\bin\Debug\SECUONELibrary.dll
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\bin\Debug\SECUONELibrary.pdb
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\obj\x86\Debug\SYSLOGD.SyslogD.resources
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\obj\x86\Debug\SYSLOGD.Properties.Resources.resources
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\obj\x86\Debug\SYSLOGD.exe
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\obj\x86\Debug\SYSLOGD.pdb
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\bin\Debug\SYSLOGD.exe.config
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SYSLOGD\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SyslogDTest\SYSLOGD.exe.config
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SyslogDTest\SYSLOGD.exe
+D:\Project_S2I\SECU-1 Collection Server - 복사본\SyslogDTest\SYSLOGD.pdb
